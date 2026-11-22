@@ -1,0 +1,11 @@
+{
+  "title": "BLANCÉ — Beauty for Every You",
+  "description": "Compre cosméticos de diversas marcas com opções para todos os orçamentos, acompanhe pedidos e receba recomendações. Um painel administrativo simplifica vendas, produtos e estoque.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
